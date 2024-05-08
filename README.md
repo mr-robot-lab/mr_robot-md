@@ -2,7 +2,7 @@
 <h1 align="center"><b>MR ROBOT MD</b>
 <a><img src='https://telegra.ph/file/2368f255706cdda25386f.jpg'/></a>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+Am+Mr+Robot+MD..&cat;++;Self-taught+Back-Created+By,;Mr+Robot+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Friend+I+am+Mr+Robot+MD..&cat;++;Self-taught+Back-Created+By,;Mr+Robot+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
 <a><img src='https://telegra.ph/file/a6537a85bc57a345ea130.jpg'/></a>                       
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/d247ce174e4bcc081575a.jpg" alt="01" border="0" /></a>     
