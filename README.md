@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"><b>MR ROBOT 𝙈𝘿</b>
+<h1 align="center"><b>MR ROBOT MD</b>
 <a><img src='https://telegra.ph/file/2368f255706cdda25386f.jpg'/></a>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+Am+Mr+Robot+MD..&cat;++;Self-taught+Back-Created+By,;Mr+Robot+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
@@ -13,7 +13,7 @@
  ## Join my channel for updates and get free cc
 
 
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+<a href="https://whatsapp.com/channel/0029VaZxauk5Ui2a0kbISb2L" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
